@@ -31,7 +31,7 @@ A Console-based **Tic-Tac-Toe** game. This game allows two players to play again
 
 4. Run the game:
    ```bash
-   python tic_tac_toe.py
+   python TIC-TAC-TOE.py
    ```
 
 ## 🎮 How to Play
